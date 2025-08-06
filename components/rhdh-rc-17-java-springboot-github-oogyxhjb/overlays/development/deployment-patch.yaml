@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/jsmid/rhdh-rc-17-java-springboot-github-oogyxhjb:dd74c25f3fa05cbd1a2fa564b32b9141f12adfd1@sha256:36d71ea3bd4cc07a6aeec7154dfb9f58377c71ab6e07f2282929d04cb2256ec6
+        - image: quay.io/jsmid/rhdh-rc-17-java-springboot-github-oogyxhjb:3077f22c7c016e465675f47a3c295fc742c81471@sha256:30fa0249cca3012da22cdf1435511bb8127ae1f72f45ecc84196ae49502e19f0
           name: container-image
